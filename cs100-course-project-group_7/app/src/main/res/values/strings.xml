@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">rChat</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="log_out">Log Out</string>
+    <string name="log_in">Log In</string>
+    <string name="welcome_to_rchat">Welcome to rChat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_image">CHANGE IMAGE</string>
+    <string name="changeStatusres">CHANGE STATUS</string>
+    <string name="singledisplayname">DisplayName</string>
+    <string name="singlestatus">StatusHere</string>
+    <string name="textview">TextView</string>
+    <string name="profile_display_name">Display Name</string>
+    <string name="profile_status">user status here</string>
+    <string name="total_friends">Total Friends</string>
+    <string name="send_friend_request">SEND FRIEND REQUEST</string>
+    <string name="send_message">SEND MESSAGE</string>
+    <string name="messagelayout">TextView</string>
+    <string name="chat_page">Chat Page</string>
+    <string name="create_a_new_group">Create a New Group</string>
+    <string name="create">Create</string>
+    <string name="add_user">Add User</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="search">Search</string>
+    <string name="create_group">Create Group</string>
+    <string name="add_user_to_group">Add User to Group</string>
+    <string name="add_video">Add Video</string>
+    <string name="create_topic">Create Topic</string>
+    <string name="new_topic">Create a New Topic</string>
+    <string name="add_user_to_topic">Add User to Topic</string>
+    <string name="read_description">Read Description</string>
+    <string name="record_video">Record Video</string>
+    <string name="add_user_to_bomb">Add User to Bomb</string>
+    <string name="set_start">Set Start</string>
+    <string name="set_end">Set End</string>
+</resources>
